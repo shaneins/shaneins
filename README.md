@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shane Insang
 - 👀 I’m interested in machine learning and its applications with computational finance.
 - 🌱 I’m currently studying Financial Mathematics at Baruch College and studying machine learning independently
-- 💞️ I'm using github a record of what I have learned.
+- 💞️ I'm using github a record of what I have learned. After every program I upload I will also write a short conclusion about that program. 
 - 📫 I can be reached at shaneinsang3@gmail.com and my linkedin profile at https://www.linkedin.com/in/shane-insang-46a838202/
 
 <!---
