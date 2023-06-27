@@ -1,3 +1,5 @@
+Check out my gist for some of my earlier projects!
+
 https://www.linkedin.com/in/shane-insang-46a838202/
 
 <!---
