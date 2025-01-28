@@ -1,5 +1,5 @@
 Check out my gist for some of my earlier projects!
-[https://www.linkedin.com/in/shane-insang-46a838202/](https://gist.github.com/shaneins)
+(https://gist.github.com/shaneins)
 
 <!---
 shaneins/shaneins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
